@@ -1,0 +1,32 @@
+# Dependências do Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Diretórios de build
+dist/
+build/
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# Cache
+.cache/
+.next/
+.nuxt/
+tmp/
+temp/
+
+# IDEs e Sistemas Operacionais
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
